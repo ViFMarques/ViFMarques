@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC300&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória+Marques;Brazilian+in+love+with+Front-End;+I'm+a+systems+development+student;Make+yourself+at+home!+:%29)](https://git.io/typing-svg)
 
-
+<div align="center">  
+  <img width="44%" height="185px" src="https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ViFMarques github's stats" /> 
+  <img width="44%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
  
 ### knowledge:
