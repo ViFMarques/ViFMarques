@@ -1,9 +1,10 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC300&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória+Marques;Brazilian+in+love+with+Front-End;+I'm+a+systems+development+student;Make+yourself+at+home!+:%30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FCCD32&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Vitória+Marques;Brazilian+in+love+with+Front-End;+I'm+a+information+systems+student;Make+yourself+at+home!)](https://git.io/typing-svg)
 
 
-
+![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&theme=gruvbox_light&count_private=true&width=20)&nbsp; 
+![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&layout=compact&theme=gruvbox_light&width=40)&nbsp;
  
 ### knowledge:
 
