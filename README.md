@@ -4,7 +4,7 @@
 
 
 ![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&theme=gruvbox_light&count_private=true&width=20)&nbsp; 
-![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&layout=compact&theme=gruvbox_light&width=40)&nbsp;
+
  
 ### knowledge:
 
