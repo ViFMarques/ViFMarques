@@ -21,6 +21,5 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-00000F?style=for-the-badge&logo=microsoft-office&labelColor=00000F)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
-### Studying at the moment: 
-![React](	https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+
  
