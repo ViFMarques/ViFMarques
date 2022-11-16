@@ -4,8 +4,8 @@
 
 
 ![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&theme=slateorange&count_private=true&width=5)&nbsp;
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&layout=compact&show_icons=true&theme=slateorange&count_private=true&width=40)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&langs_count=8&show_icons=true&theme=slateorange&count_private=true)
  
 ### knowledge:
 
