@@ -4,8 +4,10 @@
 
 
 ![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&theme=slateorange&count_private=true&width=5) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&langs_count=8&show_icons=true&theme=slateorange&count_private=true)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&langs_count=8&show_icons=true&theme=slateorange&count_private=true)&nbsp; 
+
+
+----------
 ### knowledge:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
