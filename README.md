@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9A527&size=28&width=1000&lines=Hi!+My+name+is+Vitória+Marques;Brazilian+in+love+with+technology;+I'm+studying+science+in+information+systems;Make+yourself+at+home!+😊)](https://git.io/typing-svg)
 
-![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&theme=slateorange&count_private=true&width=5) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&langs_count=8&show_icons=true&theme=slateorange&count_private=true)&nbsp;
+
 
 
 ### knowledge:
@@ -20,7 +19,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=00000F)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git&labelColor=00000F)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-00000F?style=for-the-badge&logo=microsoft-office&labelColor=00000F)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
 
  
