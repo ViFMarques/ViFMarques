@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9A527&size=28&width=1000&lines=Hi!+My+name+is+Vitória+Marques;Brazilian+in+love+with+technology;+I'm+studying+science+in+information+systems;Make+yourself+at+home!+😊)](https://git.io/typing-svg)
 
-![ViFMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=ViFMarques&show_icons=true&theme=slateorange&count_private=true&width=5) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&langs_count=8&show_icons=true&theme=slateorange&count_private=true)&nbsp;
+
 
 
 ### knowledge:
@@ -14,6 +13,7 @@
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 ### Tools:
