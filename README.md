@@ -22,6 +22,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=00000F)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git&labelColor=00000F)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-00000F?style=for-the-badge&logo=microsoft-office&labelColor=00000F)&nbsp;
-
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
  
