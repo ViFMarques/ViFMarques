@@ -1,12 +1,10 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9A527&size=28&width=1000&lines=Hi!+My+name+is+Vitória+Marques;Brazilian+in+love+with+technology;+I'm+studying+science+in+information+systems+and+Big+Data;Future+Data+Engineer+😊;Make+yourself+at+home!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9A527&size=28&width=1000&lines=Hi!+I'm+Vitória+Marques;Brazilian+in+love+with+technology;+Currently+studying+science+in+information+systems+and+Big+Data;Future+Data+Engineer+😊;Make+yourself+at+home!)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&layout=compact&theme=slateorange)&nbsp;
 
 ### knowledge:
-
-
 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -15,8 +13,6 @@
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-FCCD32?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-
-
 
 
 ### Tools:
