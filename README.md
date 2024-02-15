@@ -1,6 +1,6 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&width=1000&lines=Hi!+I'm+Vitória+Marques;Fascinated+by+the+world+of+Data;+Currently+studying+information+systems+and+Big+Data;Future+Data+Engineer+😊;Make+yourself+at+home!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4895EF&size=28&width=1000&lines=Hi!+I'm+Vitória+Marques;Fascinated+by+the+world+of+Data;+Currently+studying+information+systems+and+Big+Data;Future+Data+Engineer+😊;Make+yourself+at+home!)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&layout=donut)
 
