@@ -1,6 +1,6 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4895EF&size=28&width=1000&lines=Hi!+I'm+Vitória+Marques;Fascinated+by+the+world+of+data;+Currently+studying+information+systems+and+Big+Data;Make+yourself+at+home!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4895EF&size=28&width=1000&lines=Heey!+I'm+Vitória+Marques;Fascinated+by+the+world+of+data;+Currently+studying+information+systems+and+Big+Data;Working+with+data+engineering;Make+yourself+at+home!)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViFMarques&theme=blue-green)
 
@@ -15,7 +15,6 @@
 
 ### Tools:
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&color=000000)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-00000F?style=for-the-badge&logo=git&labelColor=00000F)&nbsp;
 ![Spark](https://img.shields.io/badge/Spark%20-000000?style=for-the-badge&logo=Spark&logoColor=white)&nbsp;
